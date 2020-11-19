@@ -1,0 +1,188 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    overflow: hidden;
+    padding: 20px 0px;
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container{
+    width:1140px;
+    margin: 0px auto;
+}
+.text-design{
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+.text-design h1{
+ font-size: 60px;
+ color: white;
+}
+.text-design p{
+    margin-top: 178px;
+    font-size: 60px;
+    display: inline-block;
+}
+.text-design h2{
+    color: antiquewhite;
+    font-size: 20px;
+    padding: 17px 100px;
+
+}
+.button{
+    text-align: center;
+    width: 100%;
+    float: left;
+    padding: 29px 0px;
+
+
+}
+.hire-btn{
+    padding: 14px 47px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-right: 106px;
+}
+   
+.hire-btn a{
+    text-decoration: none;
+    font-size: 15px;
+    color: antiquewhite;
+    
+    
+}
+.hire-btn:hover{
+    cursor: pointer;
+    transform: scale(1,1);
+    transition: .6s;
+    background-color: #F7600E;
+}
+.work-btn{
+    padding: 14px 47px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+.work-btn a{
+    text-decoration: none;
+    font-size: 15px;
+    color: antiquewhite;
+
+}
+.work-btn:hover{
+    cursor: pointer;
+    transform: scale(1,1);
+    transition: .6s;
+    background-color: #F7600E;
+}
+.arrow{
+    text-align: center;
+    font-size: 30px;
+}
+.arrow i{
+    background-color:transparent;
+    padding: 21px 25px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.icons{
+    width:100%;
+    float: left;
+    padding: 136px 0px;
+
+}
+.icon{
+    width: 21%;
+    float: left;
+    text-align: center;
+    margin-right: 24px;
+}
+
+.icon i{
+    font-size: 55px;
+    color: #F7600E;
+    background-color:transparent;
+    padding: 40px;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+.icon h5{
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(65, 60, 60);
+    
+}
+.icon p{
+    font-size: 10px;
+    overflow: hidden;
+     margin-top: 22px;
+    color: #AFB2B4;
+}
+.subscribe{
+    width: 100%;
+    float: left;
+    padding: 62px;
+    background-image: url(../images/newsletter.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+   
+}
+.form-ctrl{
+   text-align: center;
+
+}
+.form-ctrl input{
+    width: 50%;
+    padding: 14px;
+    float: left;
+    border-radius: 10px;
+
+}
+.sub-btn{
+    background-color:#F7600E ;
+    width: 21%;
+    padding: 14px;
+    float: left;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+.sub-btn a{
+    text-decoration: none;
+    color: burlywood;
+}
+.portfolio{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 100px 0px;
+}
+.pictures{
+    text-align: center;
+}
+.pictures h2{
+    font-size: 40px;
+}
+.pictures p{
+    font-size: 40px;
+    display: inline-block;
+
+}
+.pictures h5{
+    color: grey;
+    font-size: 20px;
+    padding: 20px 0px;
+}
+.colA{
+    width: 33.33%;
+    float: left;
+    margin-bottom: 17px;
+}
